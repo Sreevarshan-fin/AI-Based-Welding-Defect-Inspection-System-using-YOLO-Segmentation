@@ -225,4 +225,3 @@ Possible enhancements for real-world deployment:
 
 
 
-If you want, I can also show you how to add **GitHub README badges, model architecture diagrams, and demo GIFs** so the project looks **very professional and attractive to recruiters**.

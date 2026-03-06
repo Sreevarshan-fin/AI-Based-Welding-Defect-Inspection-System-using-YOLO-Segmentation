@@ -152,8 +152,7 @@ Quality Score = 100 - Defect Density
 | -------------- | ---------- |
 | < 1%           | PASS       |
 | 1 – 5%         | ACCEPTABLE |
-
-> 5% | FAIL |
+| > 5%           |   FAIL       |
 
 ---
 

@@ -26,7 +26,8 @@ During welding processes, several types of defects may occur, including:
 * Cracks
 * Porosity
 * Spatters
-
+* Welding Line
+  
 These defects can significantly weaken weld joints and may result in:
 
 * Structural failures

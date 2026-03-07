@@ -1,19 +1,12 @@
-# AI-Based-Welding-Defect-Inspection-System-using-YOLO-Segmentation
+# Welding-Defect-Inspection-using-YOLO-Segmentation
 ---
 
 ## Project Overview
 
-This project presents an **AI-powered computer vision system for automated welding inspection** using deep learning. The system detects welding defects, segments defect regions, and evaluates weld quality based on defect severity.
-
-The solution uses a **YOLO segmentation model** to identify and segment welding-related features such as cracks, porosity, spatters, and the welding line (weld seam).
-
-The system also calculates **defect density inside the weld seam** and generates a **weld quality score with a PASS / ACCEPTABLE / FAIL decision**, simulating a real industrial quality inspection workflow.
-
-This project is implemented as a **Proof of Concept (POC)** due to limitations in accessing proprietary industrial datasets and factory hardware. However, it demonstrates the feasibility of deploying **AI-based welding inspection systems in manufacturing environments**.
-
-The inspection interface is deployed using **Streamlit**, enabling image, video, and live camera inspection.
-
----
+Computer vision–based welding inspection system using YOLO segmentation to detect cracks, porosity, spatters, and the welding line (weld seam) in weld joints.
+The model segments defect regions and the weld seam to calculate defect density within the weld area.
+Based on defect severity, the system generates a weld quality score with PASS / ACCEPTABLE / FAIL decisions.
+The system is deployed with Streamlit to support image, video, and live camera inspection.
 
 # Problem Statement
 

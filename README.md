@@ -96,7 +96,7 @@ The model was trained on a labeled welding defect dataset containing segmentatio
 
 | Metric    | Value  |
 | --------- | ------ |
-| Images    | 586    |
+| Images    | 5000   |
 | Instances | 11,382 |
 | Classes   | 4      |
 
